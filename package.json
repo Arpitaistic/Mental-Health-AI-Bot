@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@google-cloud/speech": "^7.0.1",
+    "@google-cloud/translate": "^9.0.1",
+    "dialogflow": "^1.2.0",
+    "twilio": "^5.5.1"
+  }
+}
